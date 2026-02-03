@@ -5,7 +5,6 @@
 (\.|^)rouming\.cz$
 (\.|^)seznamzpravy\.cz$
 (\.|^)twitter\.com$
-(\.|^)youtube\.com$
 (\.|^)x\.com$
 
 seznam.cz
