@@ -1,0 +1,14 @@
+(\.|^)ceskatelevize\.cz$
+(\.|^)idnes\.cz$
+(\.|^)novinky\.cz$
+(\.|^)rozhlas\.cz$
+(\.|^)rouming\.cz$
+(\.|^)seznamzpravy\.cz$
+(\.|^)twitter\.com$
+(\.|^)youtube\.com$
+(\.|^)x\.com$
+
+seznam.cz
+cmp.seznam.cz
+www.seznam.cz
+
